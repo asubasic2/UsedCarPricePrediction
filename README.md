@@ -10,7 +10,7 @@ There are two folders in this project. In frontend folder there is a simple web 
 
 ## Dataset description
 
-Used car prices depend on the country where the car is located due to different custom laws and taxes on them. Thus to get the best results, dataset is obtained only from one country.A decision suport system developed using such dataset will provide good estimates for prices of cars from that country.
+Used car prices depend on the country where the car is located due to different custom laws and taxes on them. Thus to get the best results, dataset is obtained only from one country. A decision suport system developed using such dataset will provide good estimates for prices of cars from that country.
 In this project dataset is created by scraping the Olx.ba website for used cars in Bosnia and Herzegovina.
 
 
