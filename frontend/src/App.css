@@ -1,0 +1,34 @@
+
+.podnaslov{
+    
+    padding-top: 15px;
+    padding-bottom: 12px;
+    margin: 0cm;
+    background-image:linear-gradient(to right, #498fff,white) ;
+    color: antiquewhite;
+    font-weight: bold;
+    font-size: 1.3em;
+    margin-top: 0cm;
+    text-align: left;
+    width: 80%;
+    padding-left: 3%;
+    margin-left: 10%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.podaci{
+    width: 70%;
+    margin-left: 15%;
+    margin-top:2em;
+    display: inline-block;
+    padding-bottom: 0.6em;
+    
+}
+.naziv{
+    width: 100%;
+}
+.chart{
+   width: 90%;
+  
+    
+}

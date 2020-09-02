@@ -1,0 +1,13 @@
+.navbar{
+    width: 100%;
+    opacity: 1;
+    background-image:linear-gradient(to left, #b9af21, transparent);
+    margin: 0;
+}
+
+.textlink{
+    font-size: 20px;
+    margin-top: 15px;
+    color: white
+   
+}

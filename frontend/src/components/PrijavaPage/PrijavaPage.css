@@ -1,0 +1,50 @@
+.body {
+    background-color: white;
+    
+    min-height: 70vh;
+    display: flex;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.naslov{
+    size:3em;
+    padding-top: 15px;
+    padding-bottom: 12px;
+   
+    margin: 0cm; background-image:linear-gradient(to right, #498fff,white) ;
+    color: antiquewhite;
+    font-weight: bold;
+    font-size: 2em;
+    margin-top: 0cm;
+    text-align: left;
+    width: 100%;
+    padding-left: 5%;
+}
+
+.submit{
+    background-image:linear-gradient( to right, #498fff,#afceff) ;
+    color:white;
+    font-size: 19px;
+    border: 0;
+    border-radius: 10px;
+    width: 20em;
+    padding: 10px;
+    width: 60%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 20%;
+}
+
+.submit:hover{
+    background-image:linear-gradient( to right, #1963da,#5e9cff)
+}
+
+.submit:active{
+    background-image:linear-gradient( to right, #f0f0f0,#8cb2f0);
+    border: 2px solid #1963da;
+    color: #1963da
+}

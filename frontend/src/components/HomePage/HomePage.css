@@ -1,0 +1,77 @@
+body, html {
+    height: 100%;
+    min-height: 100%;
+
+  }
+
+.naslov{
+    size:3em;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    margin: 0cm;
+    color: #f8bf23;
+    font-weight: bold;
+    font-size: 2em;
+    margin-top: 0cm;
+    text-align: left;
+    width: 100%;
+    padding-left: 5%;
+}
+
+.HomePage{
+    background-image: url('../back1.jpg');
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.body{
+    width: 100%;
+}
+
+.text{
+    color: white;
+    margin: 0.2em;
+    font-size: large;
+}
+.lab{
+    color: white;
+    margin: 0.18em;
+    margin-right: 3em;
+    font-size: large;
+}
+
+.button {
+    background-color: #f8bf23; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    width: 80%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+
+.button1 {
+    background-color: #f8bf23; 
+    color: black; 
+    border: 2px solid #f8bf23;
+  }
+  
+.button1:hover {
+    background-color: transparent;
+    color: white;
+  }
+
+  
+.input{
+    border: none;
+    border-bottom: 2px solid #f8bf23;
+}
